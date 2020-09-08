@@ -50,7 +50,7 @@ LIMIT 1;
 
 Answer:  
 
-ProductName	- Camembert Pierrot
+ProductName - Camembert Pierrot
 Quantity - 40 
 Orders - 300
 TotalOrdered - 12000
