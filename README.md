@@ -18,7 +18,7 @@
 oa_sum = data_df['order_amount'].sum()
 ti_sum = data_df['total_items'].sum()
 
-Next divide the total order amount (oa_sum) by the total items amount (ti_sum): 
-AOV = oa_sum/ti_sum
+   Next divide the total order amount (oa_sum) by the total items amount (ti_sum): 
+   AOV = oa_sum/ti_sum
 
 3. The Average Order Value (AOV) is: $357.92 
