@@ -23,3 +23,5 @@
    AOV = oa_sum/ti_sum
 
 3. The Average Order Value (AOV) is: $357.92 
+
+VIEW CODE HERE: https://github.com/elsantonato/Data-Science-Challenge_Question-1/blob/master/Data-Science-Intern-Challenge.ipynb
