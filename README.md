@@ -49,3 +49,5 @@ For this question you’ll need to use SQL. Follow this link (https://www.w3scho
    Quantity:      40\
    Orders:        300\
    TotalOrdered:  12000
+   
+VIEW CODE HERE: https://github.com/elsantonato/Data-Science-Challenge/blob/master/Data-Science-Intern-Challenge-Question-2.sql
