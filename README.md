@@ -14,7 +14,7 @@
 
 1. The incorrect AOV calculation of $3145.13 was most likely arrived at by mistakenly calculating the total_items with the count() function instead of sum(). Whereas count() will only provide the total count of the number of rows, sum() will more accurately provide the AOV value by adding together all of the values in the total_items column. 
 
-2. To determine the correct Average Order Value (AOV), the reporting metrics are the respective sums of both 'order_amount' and 'total_items':\
+2. To determine the correct Average Order Value (AOV), the reporting metrics are the respective sums of both 'order_amount' and 'total_items':<br/>
 
    oa_sum = data_df['order_amount'].sum()\
    ti_sum = data_df['total_items'].sum()
