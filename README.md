@@ -30,18 +30,22 @@ VIEW CODE HERE: https://github.com/elsantonato/Data-Science-Challenge_Question-1
 
 For this question you’ll need to use SQL. Follow this link (https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL) to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
 
-1. How many orders were shipped by Speedy Express in total? 
-2. What is the last name of the employee with the most orders? 
-3. What product was ordered the most by customers in Germany? 
+1. How many orders were shipped by Speedy Express in total?\
+2. What is the last name of the employee with the most orders?\
+3. What product was ordered the most by customers in Germany?\
 
 ## Answers: 
 
-1. How many orders were shipped by Speedy Express in total? 54 
+1. How many orders were shipped by Speedy Express in total? 54
 
-2. What is the last name of the employee with the most orders? Peacock (Most orders: 40)
+2. What is the last name of the employee with the most orders?
 
-3. What product was ordered the most by customers in Germany? 
-Product:       Camembert Pierrot 
-Quantity:      40
-Orders:        300
-TotalOrdered:  12000
+   Employee: Peacock\
+   Most orders: 40
+
+3. What product was ordered the most by customers in Germany? <br/>
+
+   Product:       Camembert Pierrot\
+   Quantity:      40\
+   Orders:        300\
+   TotalOrdered:  12000
